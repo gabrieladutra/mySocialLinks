@@ -1,48 +1,45 @@
-<!--Hypertext Markeup Language
+## Hypertext Markeup Language ##
  
-Hipertexto é um texto que contem links, imagens e etc...
-As <tags> são elementos do html
- 
+<p>Hipertexto é um texto que contem links, imagens e etc...
+As <tags> são elementos do html<br />
+<br />
   Estrutura da Tag:
-  <abertra> Conteúdo </fechamento>
- 
+  <abertura> Conteúdo </fechamento>
+ <br />
   Atributos: são informações ou configurações
- 
+ <br />
   <link rel="stylesheet" rel="stylesheet"  href="../style.css"></>
-  <a href"www.google.com"></a>
- 
+  <a href="www.google.com"></a>
+ <br />
 A tag img não tem conteudo
-- Href endereço de referencia
-- src é a localização da imagem
-- rel=relation = tipo de documento 
+<ol>
+- Href endereço de _referencia_
+- src é a _localização_ da imagem
+- rel=relation = _tipo de documento_
+</ol> </p>
 <img src=""/>
  
 
  -->
  ````html
-```
 <p>Escrever um parágrafo</p>
 <button><a target="_blank" href="https://rocketseat.com.br"> Ver site
 </a>
 </button>
 <img src="https://source.unsplash.com/random"/>
-```
 ````
  
 <!--Criando uma box model com uma tag dentro de outra-->
 ````html
-```
 <header>
   <h1>Título</h1>
 <p> <span>Informação</span> <span>extra</span>
 </p>
  
 </header>
-```
 ````
 
 ````html
-```
 <!DOCTYPE html>
 <!--Tag raiz do HTML-->
 <html lang="pt-br">
@@ -57,5 +54,4 @@ A tag img não tem conteudo
  
   </body>
 </html>
-```
 ````
