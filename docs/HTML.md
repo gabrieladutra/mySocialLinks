@@ -1,7 +1,9 @@
 ## Hypertext Markeup Language ##
  
 <p>Hipertexto é um texto que contem links, imagens e etc...
-As <tags> são elementos do html<br />
+
+As _<tags>_ são elementos do html<br />
+
 <br />
   Estrutura da Tag:
   <abertura> Conteúdo </fechamento>
@@ -11,16 +13,21 @@ As <tags> são elementos do html<br />
   <link rel="stylesheet" rel="stylesheet"  href="../style.css"></>
   <a href="www.google.com"></a>
  <br />
-A tag img não tem conteudo
-<ol>
-- Href endereço de _referencia_
-- src é a _localização_ da imagem
-- rel=relation = _tipo de documento_
-</ol> </p>
-<img src=""/>
- 
 
- -->
+>A tag img não tem conteudo
+
+<ol>
+
+- Href endereço de _referencia_ <br />
+
+- src é a _localização_ da imagem <br />
+
+- rel=relation = _tipo de documento_ <br />
+
+
+</ol> </p>
+"<img src=""/>"
+ 
  ````html
 <p>Escrever um parágrafo</p>
 <button><a target="_blank" href="https://rocketseat.com.br"> Ver site
