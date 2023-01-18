@@ -50,8 +50,9 @@ body {
 eu uso o ,margin para centralizar*/
 
 #container {
-    width: 360px;
+    width: 100%;
     margin: 56px auto 0px;
+    max-width: 500px;
     padding: 0 24px;
 }
 

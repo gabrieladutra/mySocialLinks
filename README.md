@@ -1,15 +1,9 @@
-<h1 align="center"> 👩‍💻 Links de Gabriela Dutra </h1>
+<h1 align="center"> Links de Gabriela Dutra </h1>
 
 <p align="center">
   <img alt="projeto DevLinks" src="https://user-images.githubusercontent.com/53493630/213284307-13ab4373-883b-4137-819e-38b1db21da5c.png" width="100%">
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
@@ -19,7 +13,7 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+O projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
@@ -28,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O projeto consiste no desenvolvimento do meu cartão de visitas online e mobile.
 
 - [Acesse o projeto finalizado, online](https://gabrieladutra.github.io/devlinks)
 
