@@ -1,4 +1,4 @@
-<h1 align="center"> Links de Gabriela Dutra </h1>
+<h1 align="center"> 👩‍💻 Links de Gabriela Dutra </h1>
 
 <p align="center">
   <img alt="projeto DevLinks" src="https://user-images.githubusercontent.com/53493630/213284307-13ab4373-883b-4137-819e-38b1db21da5c.png" width="100%">
@@ -16,10 +16,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
