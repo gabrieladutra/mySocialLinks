@@ -11,9 +11,3 @@ function toggleMode() {
 
     img.setAttribute('alt', 'Foto de Gabriela Dias Dutra usando uma camisa branca')
 }
-
-//     html.classList.add('light')
-// }
-
-//pegar tag image
-//substituir imagem

@@ -1,5 +1,3 @@
-/*Reset de CSS e a medida da caixa*/
-
 * {
     margin: 0px;
     padding: 0px;
@@ -34,20 +32,8 @@ body * {
 }
 
 body {
-    /*
-    background-image: url(./assets/bg-mobile.jpg);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover; 
-    background: color image repeat position/size;
-    background: coim() repos
-    */
     background: var(--bg-url) no-repeat top center/cover;
 }
-
-
-/*Caixa com propiedades de w e h fixas 
-eu uso o ,margin para centralizar*/
 
 #container {
     width: 100%;
@@ -158,57 +144,3 @@ footer {
     padding: 24px 0;
     font-size: 14px;
 }
-
-
-/* 
-#footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px;
-}
-
-#footer p {
-    text-align: center;
-    font-size: 14px;
-    font-weight: 400;
-} */
-
-
-/* Minha resolução
-
-#social-links {
-    display: flex;
-    justify-content: center;
-    padding: 24px;
-    gap: 16px;
-    align-items: flex-start;
-    backdrop-filter: blur(4px);
-    -webkit-backdrop-filter: blur(4px);
-    transition: background 0.2s;
-    
-}
-
-#social-links ion-icon {
-    display: flex;
-    width: 40px;
-    height: 40px;
-}
-
-#social-links ion-icon:hover {
-    background: rgba(255, 255, 255, 0.05);
-    border: 1px solid rgb(199, 193, 193);
-    border-radius: 8px;
-}
- */
-
-
-/*Analisar o figma e criar a caixa principal
-<div> é uma caixa genérica id = identificador*/
-
-
-/* #profile img {
-    display: block;
-    width: 112px;
-    margin: auto;
-} */
